@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Generall Cromwell his march to Sterling. Being a diary of all proceedings in the Army from their march out of Edenburgh, to the 25 of September 1650. Also, the Lord Generals proclamation in relation to Edenburgh and Leith. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88543</idno>
+            <idno type="STC">Wing L3046</idno>
+            <idno type="STC">Thomason E613_16</idno>
+            <idno type="STC">ESTC R206525</idno>
+            <idno type="EEBO-CITATION">99865666</idno>
+            <idno type="PROQUEST">99865666</idno>
+            <idno type="VID">165742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165742)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E613[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Generall Cromwell his march to Sterling. Being a diary of all proceedings in the Army from their march out of Edenburgh, to the 25 of September 1650. Also, the Lord Generals proclamation in relation to Edenburgh and Leith. Published by authority.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Octob 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165742:1" rendition="simple:additions"/>
+            <p>THE LORD GENERALL CROMWELL His march to STERLING.</p>
+            <p>BEING A DIARY of all proceeding in the Army from their march out of EDENBURGH, to the 25 of <hi>September</hi> 1650.</p>
+            <p>ALSO, The Lord Generals Proclamation in relation to <hi>Edenburgh</hi> and <hi>Leith.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>E. G.</hi> in the Old-baily. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165742:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He Army having ſtayed in <hi>Eden<g ref="char:EOLhyphen"/>burgh</hi> and <hi>Leith</hi> for the ſpace of ſix or ſeven daies, both for their refreſhment, and the ſecuring of thoſe parts, which his Excel<g ref="char:EOLhyphen"/>lency thought fit to Order, after ſo many dif<g ref="char:EOLhyphen"/>ficulties endured by them without any inter<g ref="char:EOLhyphen"/>miſſion.</p>
+            <p>On Saturday <hi>Sept.</hi> 14. His Excellency with the Army (who had then ſeven daies proviſi<g ref="char:EOLhyphen"/>ons with them, marched to <hi>Netheriſh</hi> about ſix miles from <hi>Edenburgh,</hi> his Excellency returned that night to <hi>Leith,</hi> leaving Major Gen <hi>Overton</hi> to be Governour of <hi>Edenburgh,</hi> with Colonel <hi>Fairfax</hi> and Col. <hi>Coxes</hi> Regiments, and Col. <hi>Daniels</hi> Regiment in <hi>Leith,</hi> all theſe Regiments being of Major General <hi>Overtons</hi> Brigade.</p>
+            <p>Sunday, <hi>Sept.</hi> 15. the Army marched beyond <hi>Linlithgow</hi> towards <hi>Sterling,</hi> but by reaſon of the extraordinary Raine and ſtorme they were neceſſitated to retreat backe to <hi>Linlithgow,</hi> where they quartered all night.</p>
+            <pb facs="tcp:165742:2"/>
+            <p>Munday <hi>Sept.</hi> 16. the Army marched towards <hi>Falkirk,</hi> and being informed by the way that there was a Gariſon kept, a Trumpet was ſent to ſummon it: Anſwer was returned, that they were all Gentlemen in the houſe, and were re<g ref="char:EOLhyphen"/>ſolved all to die rather then yield it; but if <hi>Sterling</hi> were taken or yielded that ſhould be given up: That they would offer no violence to any of our Army in their paſſing to and a<g ref="char:EOLhyphen"/>gaine, but ſuch as carried themſelves diſorderly.</p>
+            <p>Tuſday, <hi>Septemb.</hi> 17. we marcht from <hi>Falkirk</hi> within a mile of <hi>Sterling,</hi> where, the Weather being extraordinary wet and ſtormy the Ge<g ref="char:EOLhyphen"/>neral was neceſſitated to quarter in the Church there being no houſe or accommodation for him.</p>
+            <p>Wedneſday <hi>Sept.</hi> 18. it rained very ſore till afternoon, in the forenoone there was a Coun<g ref="char:EOLhyphen"/>cell of War, and a Letter was drawne up to be ſent to <hi>Sterling,</hi> expreſſing their conſtant affe<g ref="char:EOLhyphen"/>ctions to and tenderneſſe of the people in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> which yet had not taken the deſired effect, And now being ſo farre advanced with their Army, that they would take into conſideration their former Papers, and that they would yield up that place to the ſervice of the Common<g ref="char:EOLhyphen"/>wealth
+<pb facs="tcp:165742:3"/>of <hi>England.</hi> A Trumpeter being ſent with this Letter, a Gentleman on foot with a Pike in his hand met him, and told him he muſt return backe, for they would not let him come in, or receive his Letter. In the afternoone came a Trumpeter about the releaſe of Priſo<g ref="char:EOLhyphen"/>ners, deſiring that they might be releaſt upon Ranſome: To which the Lord Generall writ an Anſwer, that we came not hither to make merchandize of men, or to get a gaine to our ſelves, but for the ſervice and ſecurity of the Commonwealth of <hi>England.</hi>
+            </p>
+            <p>About one of the clocke in the afternoone there were Orders given for all the Foot, and likewiſe the Horſe, except three Regiments, to march towards <hi>Sterling,</hi> in order to a ſtorme, Ladders and all things that we could poſſibly expect being provided for that purpoſe; but upon the reſult of the Councell for many con<g ref="char:EOLhyphen"/>ſiderations, it was thought ſit to retreate and draw off the Army to quarter in the ſame ground they had done before.</p>
+            <p>
+               <hi>Thurſday Sept.</hi> 19. It being not held adviſable by reaſon of ſeverall diſadvantages, the ſtrength of the towne and enemy to engage at preſent againſt <hi>Sterling.</hi> The Army drew from
+<pb facs="tcp:165742:3"/>before <hi>Sterling,</hi> and marched to <hi>Linlithgoe,</hi> where his Excellency viewed the Town.</p>
+            <p>
+               <hi>Friday Sept.</hi> 20. His Excellency came to <hi>Dun<g ref="char:EOLhyphen"/>daſſe,</hi> where Generall <hi>Deane</hi> (who came in the <hi>Faithfull Speaker,</hi> and rode before <hi>Leith</hi> the <hi>Sunday</hi> before) met him, they both returned to <hi>Lithgoe.</hi>
+            </p>
+            <p>
+               <hi>Saturday Sept.</hi> 21. This Morning his Excel<g ref="char:EOLhyphen"/>lency went with General <hi>Deane,</hi> and other Of<g ref="char:EOLhyphen"/>ficers, and an Engineer, and viewed the place round about <hi>Lithingoe,</hi> and gave Orders for ſe<g ref="char:EOLhyphen"/>verall workes to bee made for ſecurity of the place, and left Col. <hi>Sanderſon,</hi> and Major <hi>Mit<g ref="char:EOLhyphen"/>chell</hi> with five troops of horſe, and ſix comman<g ref="char:EOLhyphen"/>ded companies of Foot to ſecure it, which will be a very conſiderable Frontier Garriſon, be<g ref="char:EOLhyphen"/>ing in the midway and heart of the Countrey, betweene <hi>Edenburgh</hi> and <hi>Sterling:</hi> that night his Excellency, and the reſt of the Army came into <hi>Edenburgh,</hi> where hee had intelligence of the death of the Lord <hi>Libberton,</hi> who was wounded in the late fight.</p>
+            <p>
+               <hi>Sunday Sept.</hi> 22. His Excellency ſtayed at <hi>Edenburgh.</hi> The Caſtle have been very quiet, ſince our comming hither, onely diſcharging ſome Muskets at our Guards as they are relie<g ref="char:EOLhyphen"/>ved,
+<pb facs="tcp:165742:4"/>and at our men when they ſee opportuni<g ref="char:EOLhyphen"/>ty; they have not killed any of our men, but one or two of their own walking the ſtreets at <hi>Edenburgh,</hi> the laſt night they diſcharged four Peeces of Ordnance at the relieving the guards but did no hurt.</p>
+            <p>
+               <hi>Munday Sept.</hi> 23. The Generall and Officers kept a day of Humiliation; the ſame night came in ſix Engliſh Cavaleers from the enemy, who declare their being weary of the Court and Camp; and that there are ſo many diviſi<g ref="char:EOLhyphen"/>ons in both, that they will ſuddainly break to peeces.</p>
+            <p>This day the Kirk appointed aday of Humili<g ref="char:EOLhyphen"/>ation. Firſt, to bewaile the ſinnes of their Na<g ref="char:EOLhyphen"/>tion in general. Secondly, the ſin of their Com<g ref="char:EOLhyphen"/>miſſioners in bringing over their King ſo ſoone. Thirdly, for their acceptance of their King, before he had more ſufficiently repented him of his by paſt ſins. Fourthly, for their not purging their Army. Fifthly, for their too much truſting in the Arme of fleſh. Wee un<g ref="char:EOLhyphen"/>derſtand generall <hi>Leven</hi> is gone to his owne houſe, Lieut. <hi>David Leſley</hi> is with the Army neer <hi>Sterling,</hi> Co. <hi>Straghan,</hi> &amp; Col. <hi>Gibby Car,</hi> are gone to raiſe Forces about <hi>Glaſco.</hi> The Com<g ref="char:EOLhyphen"/>mittee
+<pb facs="tcp:165742:4"/>of Eſtates divided ſome to one place, and ſome in another, one party acting for the Kings intereſt, the other for the Presbyterians.</p>
+            <p>Laſt <hi>Tueſday</hi> Sept. 24. Nothing conſidera<g ref="char:EOLhyphen"/>ble hapned, onely ſome Regiments of Foot were diſpoſed into the Country for inlarge<g ref="char:EOLhyphen"/>ment of Quarters. <hi>Edenburgh</hi> Sept. 25. 1650.</p>
+            <floatingText xml:lang="eng" type="proclamation">
+               <body>
+                  <head>A Proclamation by his Excellency.</head>
+                  <p>
+                     <hi>WHereas it hath pleaſed God by his gracious Providence and Goodneſſe, to put the City of</hi> Edenburgh, <hi>and the Town of</hi> Leith <hi>under my power; And although I have put forth ſeverall Pro<g ref="char:EOLhyphen"/>clamations ſince my comming into this Country to the like effect, with this preſent: Yet for further ſatisfa<g ref="char:EOLhyphen"/>ction to all thoſe whom it may concern; J do hereby againe publiſh and declare, that all the inhabitants of the Country (now not being nor continuing in arms) ſhal have free leave and liberty to come to the Army, and to the City and Town aforeſaid, with their Cat<g ref="char:EOLhyphen"/>tle, Corn, Horſe, or other Commodities or goods what<g ref="char:EOLhyphen"/>ſoever,
+<pb facs="tcp:165742:5"/>and ſhall there have free and open Markets for the ſame, and ſhall be protected in their perſons and goods, in comming and returning as aforeſaid, from any injury or violence of the Souldiery, under my Command, and ſhall alſo be protected in their re<g ref="char:EOLhyphen"/>ſpective houſes. And the Citizens and Inhabitants of the ſaid City and Towne ſhall (and hereby like<g ref="char:EOLhyphen"/>wiſe) have free leave to vend and ſell their wares and commodities, and ſhall be protected from the plunder and violence of the Souldiers, And I do here<g ref="char:EOLhyphen"/>by require all Officers and Souldiers of the Army un<g ref="char:EOLhyphen"/>der my command, to take due notice hereof, and to yeeld obedience hereto, as they will anſwer the con<g ref="char:EOLhyphen"/>trary at their utmoſt perill.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Given under my hand at</hi> Edenburgh <date>
+                           <hi>the</hi> 14<hi rend="sup">th</hi> 
+                           <hi>of</hi> September, 1650.</date>
+                     </dateline> 
+                     <signed>O. CROMWELL.</signed>
+                  </closer>
+                  <postscript>
+                     <p>To be Proclaimed in <hi>Leith</hi> and <hi>Edenburgh,</hi> by ſound of Trumpet, and beat of Drum.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
